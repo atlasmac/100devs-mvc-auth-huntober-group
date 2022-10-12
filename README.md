@@ -48,7 +48,7 @@ A collaborative project built by Adam Morsa, Rachel Eckenroad, Atlas McKenzie, A
       <td width="50%">
         <p align="center"><a href="https://github.com/atlasmac"><img src="https://avatars.githubusercontent.com/u/11248186?s=120&v=4"></a><br />
         <strong>Atlas McKinley</strong><br />
-          I'm Atlas and I learned that</p>
+          I'm Atlas and this project was a fun way to get more familiar with MVC principles. I really appreciated to work with an awesome team. </p>
       </td>
       <td width="50%">
         <p align="center"><a href="https://github.com/andiedoescode"><img src="https://avatars.githubusercontent.com/u/98671035?s=120&v=4"></a><br />
